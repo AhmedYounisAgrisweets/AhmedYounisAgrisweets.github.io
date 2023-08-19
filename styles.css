@@ -98,7 +98,7 @@ inner{
 
 
 @media (max-width: 1000px) {
-    image {    
+    .image {    
         list-style-type: none;
         width: 34px;
         float: left;
